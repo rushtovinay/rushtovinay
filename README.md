@@ -1,0 +1,3 @@
+Hey I am Vinay, I have learnt python, ML, Ai and you can find many projects in this github account. I have seperated all the prokjects in differet repo....
+.
+.
